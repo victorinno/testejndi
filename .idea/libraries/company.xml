@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="company">
+    <CLASSES />
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/out/production/testejndi/com/company" />
+    </NATIVE>
+    <SOURCES />
+  </library>
+</component>

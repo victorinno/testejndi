@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="android-aarch64">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Documents/jna-master/dist/jna-min.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/jna-master/dist/jna-platform.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/jna-master/dist/jna.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/jna-master/dist/win32-x86-64.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Documents/jna-master/dist/doc.zip!/javadoc" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/src/com/company" />
+      <root url="file://$PROJECT_DIR$/src/main/resources" />
+    </NATIVE>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Documents/jna-master/dist/src-full.zip!/contrib/platform/src" />
+      <root url="jar://$USER_HOME$/Documents/jna-master/dist/src-full.zip!/contrib/platform/test" />
+      <root url="jar://$USER_HOME$/Documents/jna-master/dist/src-full.zip!/src" />
+      <root url="jar://$USER_HOME$/Documents/jna-master/dist/src-full.zip!/test" />
+      <root url="jar://$USER_HOME$/Documents/jna-master/dist/src.zip!/contrib/platform/src" />
+      <root url="jar://$USER_HOME$/Documents/jna-master/dist/src.zip!/contrib/platform/test" />
+      <root url="jar://$USER_HOME$/Documents/jna-master/dist/src.zip!/src" />
+      <root url="jar://$USER_HOME$/Documents/jna-master/dist/src.zip!/test" />
+      <root url="file://$PROJECT_DIR$/src" />
+    </SOURCES>
+  </library>
+</component>
